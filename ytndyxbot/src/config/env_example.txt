@@ -1,0 +1,13 @@
+export CLIENT_NAME=""
+export API_ID=""
+export API_HASH=""
+export BOT_TOKEN=""
+export PHONE_NUMBER=""
+export PASSWORD=""
+
+export MYSQL_DB_HOST=""
+export MYSQL_DB_USER=""
+export MYSQL_DB_PASSWORD=""
+export MYSQL_DB_NAME=""
+
+export MAX_INTENT_DOWNLOAD=""

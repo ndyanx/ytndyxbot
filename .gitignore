@@ -1,0 +1,10 @@
+*.session
+*.db
+**/__pycache__/
+
+.ruff_cache
+.env
+.venv
+ruff_cache/
+env/
+venv/
